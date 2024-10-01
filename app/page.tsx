@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "./components/Header";
 import IntroSection from "./sections/IntroSection";
 import TimeLineSection from "./sections/TimeLineSection";
@@ -12,7 +11,7 @@ import TimeLineSection from "./sections/TimeLineSection";
 
 // viewport
 
-// tailwind는 크기가 4 단위 
+// tailwind는 크기가 4 단위
 //=> 1 == 4px
 // text-16 == 64px
 
@@ -24,7 +23,6 @@ export default function Home() {
       <Header />
       <IntroSection />
       <TimeLineSection />
-      
     </main>
   );
 }

@@ -12,7 +12,6 @@ const TimeLineCard = ({
   title,
   date,
   description,
-  isModalOpened,
   setIsModalOpended,
 }: TimeLineCardProps) => {
   const handleClick = () => {
@@ -20,7 +19,10 @@ const TimeLineCard = ({
   };
 
   return (
-    <div onClick={handleClick} className="flex flex-col justify-start items-start gap-y-0.5 hover:border hover:border-red-600">
+    <div
+      onClick={handleClick}
+      className="flex flex-col justify-start items-start gap-y-0.5 hover:border hover:border-red-600"
+    >
       <span>{title}</span>
       <span>{date}</span>
       <span>{description}</span>
