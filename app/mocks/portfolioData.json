@@ -1,0 +1,264 @@
+{
+  "introduction": {
+    "name": "Ji Hyun Park",
+    "nickName": "Journnie",
+    "email": "jhyun095@gmail.com",
+    "githubUrl": "https://github.com/journnie",
+    "blogUrl": "https://journnie.tistory.com"
+  },
+  "projects": [
+    {
+      "title": "[팀] OTT 계정 공유 서비스: 가치와치",
+      "description": "OTT 플랫폼 소비자의 경제적 측면의 구독 피로를 줄일 수 있는 OTT 플랫폼 계정 공유 서비스를 개발했습니다.",
+      "attribution": "해당 프로젝트의 기획, 디자인, 발표 및 프론트엔드 개발을 담당했습니다.",
+      "date": "2022.10 ~ 2022.11",
+      "skills": "#React, #Javascript, #Axios, #Styled-Components, #Redux, #AWS",
+      "imgUrl": "https://user-images.githubusercontent.com/104896647/221491172-822e6550-eb7a-4f5f-b823-9e1e8556b048.jpg",
+      "projectUrl": "https://github.com/kimnerd625/watchTogether-teamProject"
+    },
+    {
+      "title": "[팀] 동네 모임 커뮤니티 플랫폼: 동네#람들",
+      "description": "같은 지역 내 같은 관심사를 가진 사용자들이 서로 편하게 모임을 만들고 운영하는 플랫폼 서비스를 개발했습니다.",
+      "attribution": "해당 프로젝트의 기획, 디자인, 발표 및 프론트엔드 개발을 담당했습니다.",
+      "date": "2022.11 ~ 2022.12",
+      "skills": "#React, #Javascript, #Axios, #Styled-Components, #Redux, #AWS",
+      "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbNXLwD%2Fbtr1f0ShwuR%2FG4gTjIY783PQfi8W33dBM1%2Fimg.png",
+      "projectUrl": "https://github.com/kimnerd625/villagerServiceFe-teamProject"
+    },
+    {
+      "title": "[팀] 튜터링 일정 및 수업 관리 모바일 앱: 수숙관",
+      "description": "튜터와 튜티의 개인 수업 및 일정을 관리하고 정리할 수 있는 모바일 앱을 개발했습니다.",
+      "attribution": "해당 프로젝트의 기획, 디자인 및 프론트엔드 개발을 담당했습니다.",
+      "date": "2022.12 ~ ",
+      "skills": "#React-Native, #React, #Javascript, #Axios, #Styled-Components, #Redux",
+      "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMIJPQ%2Fbtr06XIVfgy%2FrphMoisz0Td3NojK6JgS1k%2Fimg.png",
+      "projectUrl": "https://github.com/SpringBeam/SpringBeam_FE"
+    },
+    {
+      "title": "[개인] 개인 커스텀 포트폴리오: nerd-portfolio",
+      "description": "제가 원하는 느낌으로 쉽게 수정 가능한 커스텀 포트폴리오 웹사이트를 개발했습니다.",
+      "attribution": "해당 프로젝트의 기획, 디자인 및 프론트엔드 개발을 담당했습니다.",
+      "date": "2023.01 ~ 2023.02",
+      "skills": "#React, #Javascript, #Styled-Components, #Netlify",
+      "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeAFUGE%2Fbtr1dcMfDK1%2FdWska8kkgHHnAB6pvycdcK%2Fimg.png",
+      "projectUrl": "https://github.com/kimnerd625/nerd-portfolio"
+    },
+    {
+      "title": "[팀] MZ들의 유사과학 놀이터: 티케",
+      "description": "10대, 20대를 메인 타겟으로 한 심리, 운세, 유형검사 기능을 흥미롭게 제공하는 웹/앱 서비스를 개발했습니다.",
+      "attribution": "해당 프로젝트의 기획 및 프론트엔드 개발을 담당했습니다.",
+      "date": "2023.04 ~ ",
+      "skills": "#React, #Javascript, #TypeScript, #Styled-Components, #React-Native",
+      "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEEg8n%2Fbtsae5xf7ez%2FkWrKIPpacvJwIec54vqRk1%2Fimg.jpg",
+      "projectUrl": "https://github.com/kimnerd625/nerd-portfolio"
+    }
+  ],
+  "projectImages": {
+      "[팀] OTT 계정 공유 서비스: 가치와치": [
+        "https://user-images.githubusercontent.com/104896647/210487709-e278471d-764d-4d20-a5b8-d2647becb5a8.jpg",
+        "https://user-images.githubusercontent.com/104896647/202632453-8964db5b-8060-47d7-a367-5f75be6677ad.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632457-ee0c0710-59b2-4e8f-85ec-cb4e3043c427.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632458-c9c31e9d-da56-43ba-8942-68d7ffa692b9.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632460-96a1e9b0-dbb6-4e23-9855-48e0f2f666e4.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632464-f874d5a7-5b65-4b63-b192-0101ddf2226a.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632466-7936cb34-b2db-4545-8af2-261835ebdaa7.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632467-9d72272d-2617-4e4a-aea3-accf3ca7095e.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632470-c4007236-8ebe-4cb8-9e36-44d54609f624.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632472-0c970dcb-330c-4119-99ce-4ef5799ad9e0.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632473-549fd5c6-52fd-454d-9ffe-de3837c708f3.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632475-eacfb56e-9264-4b9a-9bf9-b93e20cb96da.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632477-c4f16f2b-94f8-4d1e-a14c-1a721f121f27.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632478-c13ff133-da22-45be-b83e-e3d401b72f1f.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632481-e981f205-0a5a-4f42-a285-af9abe26b59f.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632483-eee16846-0758-4861-9241-a99a17cc60f8.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632484-fc423890-6efb-4f85-8b12-cbf187a07fc9.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632486-e55403e3-95fe-4bb2-8179-9c47ba9fe517.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632489-e332343d-5bac-485d-b3b8-fec6733f7f11.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632490-daedec10-3c57-4654-841c-2f602b00302a.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632493-6e545cfd-ad08-41d1-aeca-16ba44192b96.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632494-fd0b730a-6600-4734-854c-9eb516a712b1.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632495-81442667-fcfd-4225-aa7b-2d76810f886c.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632497-1bc0db00-d8c3-4a60-bb5c-e6c5f74ab0bb.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632499-624340f2-c6de-47dd-8443-21bd07ae1139.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632500-6b80d135-267b-43b4-8db0-e6e75e4c973d.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632501-cd7acca2-a892-4ace-9ddf-1335ca414bb6.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632502-e2f00a9f-05c6-4610-964d-b62e1fc8f40e.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632502-e2f00a9f-05c6-4610-964d-b62e1fc8f40e.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632510-9835ea5b-5f27-4f6f-bf8a-a802e5673254.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632513-3d6f7f64-33bc-491e-80ee-1412d8991293.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632514-34aded2b-7466-4854-a42e-3941c97be228.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632522-d636b629-e0e9-45ad-99ac-0b27df38aeb8.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632529-ac03a852-e70c-4075-8831-543057d4c351.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632538-8c67c859-aa3a-45f7-bdad-c69b6bc3dff9.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632540-f2098c35-8e90-4bc2-aa94-4424ffe3933c.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632542-18bb256d-5133-4ec1-8f89-9549ad41f1bd.JPG",
+        "https://user-images.githubusercontent.com/104896647/202632544-8ca628a8-5267-40bb-b511-f7df3bcb9cc3.JPG"
+      ],
+      "[팀] 동네 모임 커뮤니티 플랫폼: 동네#람들": [
+        "https://user-images.githubusercontent.com/104896647/210487461-119a9968-0bee-4da5-b73d-3a95cdb227ea.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487461-119a9968-0bee-4da5-b73d-3a95cdb227ea.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487468-aec48797-e6f2-4dd1-98b4-1f417d792a20.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487475-e75f65ce-c985-48ef-ab83-a7ff34f0d804.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487480-60c74cdc-d7dc-4d5c-8918-c740bcb9bf90.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487482-555b7aa0-d075-4201-8d7f-7e77460e429a.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487485-3ec21caf-3d44-4539-963a-dc878cd2b8d5.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487489-94e931a9-c8e7-48f1-91c3-3be01b5c4806.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487493-f2eb1567-aa8c-4e1e-825d-3c7942114764.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487498-c652df55-2312-41c1-a4b7-741a5a390811.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487503-cd55a6b8-32a2-4c84-a330-b9e487af9dd0.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487508-11b6a3b9-f9c1-4255-bf22-8df5651e6adb.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487510-ff6c2161-52e8-4cf2-bf3d-17538362d53d.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487515-70c61b38-d7ec-4848-90e2-b1cb7749d278.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487516-3ddfec23-8c4a-42cc-8949-4a891207387f.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487518-82bab357-714a-4d13-a7e9-cdd0f8d17232.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487519-c73ece36-c228-48c0-9de2-e1d33f090620.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487522-3d338072-c3fe-44b5-a7ce-e6b608c07ca0.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487524-96a40750-4440-489b-b604-549aeec03fa8.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487525-5e1d2e60-11c1-431e-a5c7-3fa2cac071ec.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487525-5e1d2e60-11c1-431e-a5c7-3fa2cac071ec.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487533-1d21e8e4-3aa1-4654-aa97-5f2e458da356.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487535-011b02fb-3426-49fe-baf0-c5b297993828.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487537-2958bd05-99c7-4b68-be00-f668bf626c6d.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487542-a4b965a6-8fd7-4854-86bd-ef5de873fecc.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487544-88bc4610-9745-4845-b896-e3656da6d87c.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487546-1fcfd412-4ebb-4faa-95ad-e87a1b1a8511.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487548-fa0b6a04-d4ff-4253-bb90-7b8db9ae91cf.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487550-aa164fa5-56bb-4432-b22c-89fa80fdc2eb.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487550-aa164fa5-56bb-4432-b22c-89fa80fdc2eb.JPG",
+        "https://user-images.githubusercontent.com/104896647/210487554-327e79d5-e964-4b54-a051-34f38696e56d.JPG"
+      ],
+      "[팀] 튜터링 일정 및 수업 관리 모바일 앱: 수숙관": [
+        "https://user-images.githubusercontent.com/104896647/222944482-daff57a4-f2c9-4d21-a9da-5a40ede2dbc6.jpg"
+      ],
+      "[개인] 개인 커스텀 포트폴리오: nerd-portfolio": [
+        "https://img1.daumcdn.net/thumb/R450x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F27nMF%2FbtsafRrPAU6%2FxkOj7d4kBl6HvbktDk44x0%2Fimg.jpg"
+      ],
+      "[팀] MZ들의 유사과학 놀이터: 티케": [
+        "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDll39%2Fbtsaf8trRt5%2Fu5sdO5qlkmKAGUdEbB5aJ0%2Fimg.jpg",
+        "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrStVp%2Fbtsaf7OPTzN%2FXEWqP1uVSeSSjdzkthgfU1%2Fimg.jpg",
+        "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuLqgj%2Fbtsae6QtVmr%2FhPA0Fsklaz2z2pSitOhzH0%2Fimg.jpg",
+        "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbTmlPM%2Fbtsae7ojS1h%2FDDWrKl42kmlzLnarQWD290%2Fimg.jpg"
+      ]
+  },
+  "timelines": [
+    {
+      "date": "2023.04 ~ ",
+      "title": "협업 프로젝트 - 티케",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발"
+    },
+    {
+      "date": "2023.03 ~ ",
+      "title": "인공지능 교육 서비스 OUTTA 기술부원",
+      "description": "OUTTA 2기 활동, 프론트엔드 개발"
+    },
+    {
+      "date": "2023.01 ~ ",
+      "title": "개인 프로젝트 - 너드 포트폴리오",
+      "description": "개인 프로젝트 진행, 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.12 ~ ",
+      "title": "협업 프로젝트 - 수숙관",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.11 ~ 2022.12",
+      "title": "협업 프로젝트 - 동네#람들",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.11 ~ 2022.12",
+      "title": "개인 프로젝트 - 온라인 중국어 등운도",
+      "description": "개인 프로젝트 진행, 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.10 ~ 2022.11",
+      "title": "협업 프로젝트 - 가치와치",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발 및 배포"
+    },
+    {
+      "date": "2021.09 ~ 2022.06",
+      "title": "연세대 중앙컴퓨터동아리 YCC 부원 활동",
+      "description": "파이썬 자료구조 및 알고리즘 초/중급 스터디 - 스터디장으로 활동"
+    }
+  ],
+  "skillSets": [
+    { "level": "1", 
+      "skills": [
+        {
+          "name": "reactquery",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbzcPiI%2Fbtr0WeLgXtW%2F3a0bt5pJ23KLkOXPjUj4jK%2Fimg.png",
+          "backgroundColor": "#FFD94C"
+        },
+        {
+          "name": "formik",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fqadkb%2Fbtr01UZZ3vo%2FbTZZOM9GmQLNpcXOJ1wKoK%2Fimg.png",
+          "backgroundColor": "#DEEBF7"
+        },
+        {
+          "name": "moment",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fys90j%2Fbtr0RJrg76r%2F1gG1NEK76X7KYYo0Wg3wUK%2Fimg.png",
+          "backgroundColor": "#E2F0D9"
+        },
+        {
+          "name": "css",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeyuJqF%2Fbtr0NMPkUel%2FdMmeEvwKadRhO2U8kHDmr0%2Fimg.png",
+          "backgroundColor": "#369CD6"
+        }
+      ]
+    },
+    { "level": "2", 
+      "skills": [
+        {
+          "name": "jsx",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcGGpuX%2Fbtr0VKQWSA7%2F6dNGkm9Wl4jtNZGngOVatk%2Fimg.png",
+          "backgroundColor": "#D269A9"
+        },
+        {
+          "name": "styled-components",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fr1vtQ%2Fbtr1dcMb0p6%2F1KK8nxmsjSt4CVVh63gAGk%2Fimg.png",
+          "backgroundColor": "#E7E6E6"
+        },
+        {
+          "name": "react",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkFAYr%2Fbtr0RKcGtWH%2FqziNWmAUgEeNi3mRMQH7X1%2Fimg.png",
+          "backgroundColor": "#52C0DE"
+        },
+        {
+          "name": "vscode",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FezGdt1%2Fbtr07AGPL1t%2F716GCEy17Ss3atY69dtDak%2Fimg.png",
+          "backgroundColor": "#2B2B30"
+        },
+        {
+          "name": "html",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fce8U10%2Fbtr1nDvoR66%2Fv2MGnd5FDradq7I8JjSiXK%2Fimg.png",
+          "backgroundColor": "#F16529"
+        }
+      ]
+    },
+    { "level": "3", 
+      "skills": [
+        {
+          "name": "redux",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJRXgr%2Fbtr0RQDV6lz%2FlE6basCHCchKoy36hP3Jl0%2Fimg.png",
+          "backgroundColor": "#DAE3F3"
+        },
+        {
+          "name": "reactrouter",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcbefLu%2Fbtr0VKQWSAQ%2FYLIEnMo8fPK3G3KIk7iMg0%2Fimg.png",
+          "backgroundColor": "#A6A6A6"
+        },
+        {
+          "name": "axios",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F5NGt6%2Fbtr01TNuPhN%2FnbGkswgkfHFN2uM0NbsDG1%2Fimg.png",
+          "backgroundColor": "#0A99E0"
+        },
+        {
+          "name": "javascript",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEsCaM%2Fbtr1bkKzxGC%2FfbVaZSk2TuPPgArlY4iDmK%2Fimg.png",
+          "backgroundColor": "#FBDE34"
+        }
+      ]
+    }
+  ]
+}
